@@ -1,2 +1,2 @@
 # BachelorWorkshops
-Workshops held by me during bachelors studies
+Workshops held by me during the bachelors studies
